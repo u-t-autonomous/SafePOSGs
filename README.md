@@ -13,10 +13,10 @@ In the video, we present 3 conditions where Agent 1 attempts to perform this tas
 
 ### Mars Rover with Adversarial Charging
 
-When the active charging location is at $A_1$ and Agent~1 has moved from location $s_4$ to location $s_2$ (energy level low at $e=1$), the permissive policy only allows for one transition - back to $s_0$ with the active $A_1$.
-Similarly in the first instance (active charge $A_1$), Agent~1 needs three actions to reach $T_1$ at $s_6$ and then three to return to charge. 
-Therefore the permissive policy rules out the transition from $s_3$ to $s_6$. 
-The POMDP solver takes that into account and therefore sees no utility gained by going from $s_2$ to $s_3$.
+When the active charging location is at A<sub>1</sub> and Agent~1 has moved from location s<sub>4</sub> to location s<sub>2</sub> (energy level low at e=1), the permissive policy only allows for one transition - back to s<sub>0</sub> with the active A<sub>1</sub>.
+Similarly in the first instance (active charge A<sub>1</sub>), Agent~1 needs three actions to reach T<sub>1</sub> at s<sub>6</sub> and then three to return to charge. 
+Therefore the permissive policy rules out the transition from s<sub>3</sub> to s<sub>6</sub>. 
+The POMDP solver takes that into account and therefore sees no utility gained by going from s<sub>2</sub> to s<sub>3</sub>.
 
 {% include youtube_mars.html%}
 
