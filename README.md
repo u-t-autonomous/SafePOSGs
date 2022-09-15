@@ -1,5 +1,5 @@
 # Safe Policies for Factored Partially Observable Stochastic Games
-## Steven Carr, Alex Nettekoven, Sriram Bommantanki, Nils Jansen, Ufuk Topcu
+## Steven Carr, Nils Jansen, Alex Nettekoven, Sriram Bommantanki, Ufuk Topcu
 Multimedia appendices for Safe Policies for Factored Partially Observable Stochastic Games
 
 ### Tethered UAV delivery
