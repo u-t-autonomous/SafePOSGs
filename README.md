@@ -25,4 +25,4 @@ The POMDP solver takes that into account and therefore sees no utility gained by
 
 In the autonomous driving simulator, the permissive policy often just constrains the Agent 1's ability to go straight through an intersection forcing Agent~1 into more uncertain routes. See the video below for how the permissive policy changes the nominal path of the autonomous vehicle.
 
-{% include youtube_carla.html%}
+
